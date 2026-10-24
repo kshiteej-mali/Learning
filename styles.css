@@ -1,0 +1,62 @@
+#headerContent {
+    background-color: rgb(255,255,255);
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#logo {
+    width: 80px;
+    height: auto;
+    margin-right: 20px;
+}
+
+body {
+    color: black;
+    background-color: rgb(200, 200, 200);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+.Products {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+#book1, #book2, #book3, #book4 {
+    width: 200px;
+    height: auto;
+    flex-shrink: 0;
+}
+
+.product-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-info h2 {
+    margin-top: 0;
+}
+
+.book-details {
+    margin-top: 15px;
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.book-details p {
+    margin: 5px 0;
+}
+.header-text {
+    display: flex;
+    flex-direction: row;
+}
