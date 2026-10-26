@@ -1,0 +1,10 @@
+#topBar {
+    display: flex;
+    align-items: center;
+    align-self: center;
+}
+
+.logoTop {
+    width: 250px;
+    height: auto;
+}
