@@ -1,4 +1,4 @@
-  HTML Basic Elements-
+  HTML Basic Elements- 
 
 <!DOCTYPE html> - determines that the file is the latest HTML5
 <html lang="en"> - main html tag and language select
@@ -54,3 +54,7 @@
 <!-- --> - adds a comment to the code
 
 
+
+
+
+-- Made by Kshiteej Mali 
