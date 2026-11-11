@@ -1,0 +1,1 @@
+cd "$HOME/Applications/antigravity-ide/Antigravity IDE" && ./antigravity-ide --no-sandbox

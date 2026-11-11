@@ -1,0 +1,56 @@
+  HTML Basic Elements-
+
+<!DOCTYPE html> - determines that the file is the latest HTML5
+<html lang="en"> - main html tag and language select
+<head> - header tag
+<body> - controls what the website displays
+<title> - controls the name of the top "tab bar" in browsers
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6> - Text Heading tags (where h1 > h6)
+<p> - adds a simple paragraph to the webpage
+<hr> - adds a horizontal rule in the webpage
+<br> - adds a line break
+<em> - (Emphasis) tag marks text that has stressed emphasis - ITALIC TEXT
+<strong> - sematic importance - BOLD TEXT
+<b> - BOLD TEXT styling
+<i> - ITALIC TEXT styling
+<ul> - unordered list
+<ol> - ordered list
+<dd> - description list
+<li> - used in the lists to add element (list item) 
+<dt> - description title
+<dd> - description list description
+
+  <a href="mailto: and tel:"> - used to add hyperlinks to text and allows section id based (#XXXX) autoscroll to item.
+  
+<section id=""> - adds a section in the Webpage with id
+<img src="" title="" alt=""> - adds image to the webpage using the given source
+<figure> - The HTML <figure> element represents self-contained content
+<figcaption> - Captions for the figure.
+<code> - helps in displaying CODE in the webpage
+<nav> - <nav> tag defines a section of a webpage dedicated to major navigation links
+<main> - <main> HTML element represents the dominant, core content of the <body> of a web document. (Sematic)
+<footer> - (Sematic) Footer tag
+<article> - The <article> HTML tag is a semantic element used to define a self-contained, independent piece of content that could be distributed or reused on its own
+
+================================================================================
+  CSS related HTML elements-
+
+<style> - adds CSS code snippets into html internally
+
+<link rel="" href-"" type=""> - allows for linking external icons, logos, and CSS styling apart from the html.
+
+<meta charset="UTF-8"> - edits metadata and defines that the code is in UTF-8 (Unicode Transformation Format 8-bit)
+
+&nbsp; - adds a non-breaking space in the html text to ignore space collapsation
+&gt; - adds >
+&lt; - adds <
+&copy; - adds copyright symbol
+&reg; - adds registered "r" symbol
+
+<abbr title-""> - shows abbrivations of long words
+
+<address> - useful for adding addresses
+
+<!-- --> - adds a comment to the code
+
+
